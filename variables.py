@@ -10,8 +10,8 @@ class Config(object):
 
     # <================================================ REQUIRED ======================================================>
     # Telegram API configuration
-    API_ID = 6433468  # Get this value from my.telegram.org/apps
-    API_HASH = "7895dfd061f656367ccab30032"
+    API_ID = 21436816  # Get this value from my.telegram.org/apps
+    API_HASH = "c269918dddddbc041d536207cab72155"
 
     # Database configuration (PostgreSQL)
     DATABASE_URL = "postgres://ierjlkr:OG4dxzO67Zret3Zii43Hhvujkg89WVry0n9KsHE@karma.db.elephantsql.com/ierjlkr"
@@ -21,20 +21,20 @@ class Config(object):
     MESSAGE_DUMP = -1001629811868
 
     # MongoDB configuration
-    MONGO_DB_URI = "mongodb+srv://t45:t45@cluster0.plfylpo.mongodb.net/?retryWrites=true&w=majority"
+    MONGO_DB_URI = "mongodb+srv://Mrdevil:Mrdevil@devil.fhl8fbl.mongodb.net/?retryWrites=true&w=majority&appName=Devil"
 
     # Support chat and support ID
-    SUPPORT_CHAT = "ProjectCodeXSupport"
-    SUPPORT_ID = -1001629811868
+    SUPPORT_CHAT = "devilbotsupport"
+    SUPPORT_ID = -1002025625952
 
     # Database name
     DB_NAME = "MikoDB"
 
     # Bot token
-    TOKEN = "2323839365:AAFgfdadqawlfdsM7slOa33eM_ghop"  # Get bot token from @BotFather on Telegram
+    TOKEN = "7018144447:AAF0MNLx3cyWSGvoS63hBc0O4QUO5FGhlTw"  # Get bot token from @BotFather on Telegram
 
     # Owner's Telegram user ID (Must be an integer)
-    OWNER_ID = 5907205317
+    OWNER_ID = 6107980637
     # <=======================================================================================================>
 
     # <================================================ OPTIONAL ======================================================>
